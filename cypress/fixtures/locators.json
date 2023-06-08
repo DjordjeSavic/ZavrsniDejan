@@ -1,0 +1,9 @@
+{
+    "registerpage": {
+        "firstnameInputField": "#first-name",
+        "lastNameInputField": "#last-name",
+        "emailInputfield": "#email"
+
+    }
+
+}
